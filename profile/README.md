@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/InternLM/opencompass/main/docs/en/_static/image/logo.svg" height="100"/>
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="5">OpenCompass website</font></b>
+    <b><font size="5">OpenCompass Website</font></b>
     <sup>
       <a href="https://opencompass.org.cn/">
         <i><font size="4">HOT</font></i>
