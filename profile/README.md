@@ -21,7 +21,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/open-compass?style=social)
 
-OpenCompass is a community focused on evaluation of AGI, include Large Language Model and Multi-modality Model. We aim to:
+OpenCompass is a platform focused on evaluation of AGI, include Large Language Model and Multi-modality Model. We aim to:
 
 - develop high-quality libraries to reduce the difficulties in evaluation
 - provide convincing leaderboards for improving the understanding of the large models
