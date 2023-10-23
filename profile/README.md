@@ -31,3 +31,60 @@ OpenCompass is a platform focused on understanding of the AGI, include Large Lan
 - build solid benchmarks to support the large model research
 - research on inference of Large Model(analysis, reasoning, prompt engineering.)
 
+## Toolkit
+
+**OpenCompass**
+- OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 80+ datasets.
+- https://github.com/open-compass/opencompass
+
+## Benchmarks and Methods
+
+
+<table align="left">
+  <tbody>
+    <tr align="center" valign="bottom">
+      <td>
+        <b>Paper</b>
+      </td> 
+      <td>
+        <b>Code</b>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+
+[MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281)
+
+</td>
+<td>
+  
+https://github.com/open-compass/mmbench/
+
+</td>
+</tr><tr valign="top">
+      <td>
+
+[BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues](https://arxiv.org/abs/2310.13650)
+
+</td>
+<td>
+  
+https://github.com/open-compass/BotChat
+
+</td>
+</tr>
+</tr><tr valign="top">
+      <td>
+
+[LawBench: Benchmarking Legal Knowledge of Large Language Models](https://arxiv.org/abs/2309.16289)
+
+</td>
+<td>
+  
+https://github.com/open-compass/LawBench/
+
+</td>
+</tr>
+  </tbody>
+</table>
+
