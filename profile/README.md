@@ -38,6 +38,10 @@ We aim to:
 - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 80+ datasets.
 - https://github.com/open-compass/opencompass
 
+**VLMEvalKit**
+- VLMEvalKit is a toolkit for evaluating large vision-language models (LVLMs), currently supporting ~20 LVLMs and five multi-modal benchmarks.
+- https://github.com/open-compass/vlmevalkit
+
 ## Benchmarks and Methods
 
 
