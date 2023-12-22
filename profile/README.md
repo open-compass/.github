@@ -49,13 +49,29 @@ We aim to:
   <tbody>
     <tr align="center" valign="bottom">
       <td>
+        <b>Topic</b>
+      </td> 
+      <td>
         <b>Paper</b>
       </td> 
       <td>
         <b>Code</b>
       </td>
-    </tr>
+    </tr><tr valign="top">
+      <td>Tool Utilization</td>
+      <td>
+
+[T-Eval: Evaluating the Tool Utilization Capability Step by Step](https://arxiv.org/abs/2312.14033)
+
+</td>
+<td>
+  
+https://github.com/open-compass/T-Eval
+
+</td>
+</tr>
     <tr valign="top">
+       <td>Multi Mdality</td>
       <td>
 
 [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281)
@@ -67,6 +83,7 @@ https://github.com/open-compass/mmbench/
 
 </td>
 </tr><tr valign="top">
+  <td>Subjective Evaluation</td>
       <td>
 
 [BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues](https://arxiv.org/abs/2310.13650)
@@ -79,6 +96,7 @@ https://github.com/open-compass/BotChat
 </td>
 </tr>
 </tr><tr valign="top">
+  <td>Domain Evaluation</td>
       <td>
 
 [LawBench: Benchmarking Legal Knowledge of Large Language Models](https://arxiv.org/abs/2309.16289)
