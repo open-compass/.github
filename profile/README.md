@@ -71,7 +71,7 @@ https://github.com/open-compass/T-Eval
 </td>
 </tr>
     <tr valign="top">
-       <td>Multi Mdality</td>
+       <td>Multi Modality</td>
       <td>
 
 [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281)
