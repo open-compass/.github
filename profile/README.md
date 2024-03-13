@@ -49,64 +49,68 @@ We aim to:
   <tbody>
     <tr align="center" valign="bottom">
       <td>
+        <b>Project</b>
+      </td>
+      <td>
         <b>Topic</b>
       </td> 
       <td>
         <b>Paper</b>
       </td> 
-      <td>
-        <b>Code</b>
-      </td>
     </tr><tr valign="top">
+      <td>
+  
+[T-Eval](https://github.com/open-compass/T-Eval)
+
+</td>
       <td>Tool Utilization</td>
       <td>
 
 [T-Eval: Evaluating the Tool Utilization Capability Step by Step](https://arxiv.org/abs/2312.14033)
 
 </td>
-<td>
-  
-https://github.com/open-compass/T-Eval
 
-</td>
 </tr>
     <tr valign="top">
+      
+<td>
+  
+[MMBench](https://github.com/open-compass/mmbench/)
+
+</td>
        <td>Multi Modality</td>
       <td>
 
 [MMBench: Is Your Multi-modal Model an All-around Player?](https://arxiv.org/abs/2307.06281)
 
 </td>
+</tr><tr valign="top">
+  
 <td>
   
-https://github.com/open-compass/mmbench/
+[BotChat](https://github.com/open-compass/BotChat)
 
 </td>
-</tr><tr valign="top">
   <td>Subjective Evaluation</td>
       <td>
 
 [BotChat: Evaluating LLMs’ Capabilities of Having Multi-Turn Dialogues](https://arxiv.org/abs/2310.13650)
 
 </td>
-<td>
-  
-https://github.com/open-compass/BotChat
-
-</td>
 </tr>
 </tr><tr valign="top">
+  <td>
+  
+[LawBench](https://github.com/open-compass/LawBench/)
+
+</td>
   <td>Domain Evaluation</td>
       <td>
 
 [LawBench: Benchmarking Legal Knowledge of Large Language Models](https://arxiv.org/abs/2309.16289)
 
 </td>
-<td>
-  
-https://github.com/open-compass/LawBench/
 
-</td>
 </tr>
   </tbody>
 </table>
