@@ -57,7 +57,50 @@ We aim to:
       <td>
         <b>Paper</b>
       </td> 
-    </tr><tr valign="top">
+    </tr>
+<tr valign="top">
+  
+<td>
+  
+  [DevBench](https://github.com/open-compass/DevBench)
+
+</td>
+<td>Automated Software Development</td>
+<td>
+
+[DevBench: Towards LLMs based Automated Software Development](https://arxiv.org/abs/2403.08604)
+
+</td>
+</tr>
+<tr valign="top">
+      
+<td>
+  
+[CriticBench](https://github.com/open-compass/CriticBench)
+
+</td>
+       <td>Critic Reasoning</td>
+      <td>
+
+[CriticBench: Evaluating Large Language Models as Critic](https://arxiv.org/abs/2402.13764)
+
+</td>
+</tr>
+
+<tr valign="top">      
+<td>
+  
+[MathBench](https://github.com/open-compass/MathBench)
+
+</td>
+       <td>Mathematical Reasoning</td>
+      <td>
+
+[MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark](https://github.com/open-compass/MathBench)
+
+</td>
+</tr>
+    <tr valign="top">
       <td>
   
 [T-Eval](https://github.com/open-compass/T-Eval)
@@ -71,6 +114,7 @@ We aim to:
 </td>
 
 </tr>
+
     <tr valign="top">
       
 <td>
