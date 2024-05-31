@@ -87,6 +87,21 @@ We aim to:
 </td>
 </tr>
 
+<tr valign="top">
+      
+<td>
+  
+[ANAH](https://github.com/open-compass/ANAH)
+
+</td>
+       <td>Hallucination Annotation</td>
+      <td>
+
+[ANAH: Analytical Annotation of Hallucinations in Large Language Models](https://arxiv.org/abs/2405.20315)
+
+</td>
+</tr>
+
 <tr valign="top">      
 <td>
   
