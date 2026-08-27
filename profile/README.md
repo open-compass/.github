@@ -42,6 +42,10 @@ We aim to:
 - VLMEvalKit is a toolkit for evaluating large vision-language models (LVLMs), currently supporting ~20 LVLMs and five multi-modal benchmarks.
 - https://github.com/open-compass/vlmevalkit
 
+**AgentCompass**
+- AgentCompass is an extensible open-source evaluation infrastructure for systematically assessing LLM/VLM agent.
+- https://github.com/open-compass/AgentCompass
+
 ## Models
 
 **CompassVerifier**
